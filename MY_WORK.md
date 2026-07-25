@@ -70,9 +70,9 @@ I work on the operational support and maintenance of an enterprise data platform
 
 ## ServiceNow & Task Management
 
-- Create and manage Service Requests (SRs) and Change Requests (CRs) as required.
+- Create and manage Service Requests and Change Requests as required.
 - Work on assigned incidents, service requests, and change tasks using ServiceNow.
-- Update task progress and maintain accurate ticket status throughout the implementation lifecycle.
+- Update task progress and maintain accurate ticket status throughout the implementation.
 - Document investigation findings and resolution details in ServiceNow.
 - Coordinate task completion and provide status updates when required.
 
@@ -80,16 +80,16 @@ I work on the operational support and maintenance of an enterprise data platform
 
 ##  Agile & Team Collaboration
 
-- Participate in daily stand-up meetings and project discussions.
+- Participate in stand-up meetings and project discussions.
 - Update and maintain Jira tickets with progress, status, and implementation details.
-- Communicate blockers and coordinate with team members when required.
+- Communicate blockers and coordinate with team members.
 
 ---
 
 ## Confluence & Documentation
 
 - Use Confluence as the primary knowledge base for project documentation.
-- Refer to interface, job, objects, source, and support documentation during analysis and troubleshooting.
+- Refer to interface, job, objects, source, and documentation during analysis and troubleshooting.
 - Review technical documnetation, deployment procedures, and operational documentation.
 - Utilize Confluence to understand data flow, object dependencies, and support processes.
 
