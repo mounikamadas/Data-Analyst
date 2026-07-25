@@ -1,5 +1,5 @@
 # Data Engineering Associate
-Documentation of work experience, and technical knowledge.
+Documentation of my work experience, and technical knowledge.
 
 # Documentation
 
