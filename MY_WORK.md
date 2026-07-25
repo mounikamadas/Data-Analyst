@@ -68,6 +68,16 @@ I work on the operational support and maintenance of an enterprise data platform
 
 ---
 
+## ServiceNow & Task Management
+
+- Create and manage Service Requests (SRs) and Change Requests (CRs) as required.
+- Work on assigned incidents, service requests, and change tasks using ServiceNow.
+- Update task progress and maintain accurate ticket status throughout the implementation lifecycle.
+- Document investigation findings and resolution details in ServiceNow.
+- Coordinate task completion and provide status updates when required.
+
+---
+
 ##  Agile & Team Collaboration
 
 - Participate in daily stand-up meetings and project discussions.
