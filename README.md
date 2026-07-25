@@ -1,5 +1,5 @@
-# Data-Analyst
-Documentation of my Data Analyst experience, workflows, and technical knowledge.
+# Data Engineering Associate
+Documentation of my Data Engineering Associate experience, workflows, and technical knowledge.
 
 # Documentation
 
