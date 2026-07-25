@@ -83,3 +83,12 @@ I work on the operational support and maintenance of an enterprise data platform
 - Participate in daily stand-up meetings and project discussions.
 - Update and maintain Jira tickets with progress, status, and implementation details.
 - Communicate blockers and coordinate with team members when required.
+
+---
+
+## Confluence & Documentation
+
+- Use Confluence as the primary knowledge base for project documentation.
+- Refer to interface, job, objects, source, and support documentation during analysis and troubleshooting.
+- Review technical documnetation, deployment procedures, and operational documentation.
+- Utilize Confluence to understand data flow, object dependencies, and support processes.
