@@ -10,11 +10,13 @@ Snowflake is a cloud-native data warehouse that enables organizations to store, 
 
 ## Why is Snowflake Used?
 
-- Cloud-based data warehouse
-- High-performance SQL analytics
-- Independent compute and storage scaling
-- Secure data sharing
-- Supports structured and semi-structured data
+- Cloud-based data warehouse for storing and managing large volumes of data.
+- Combines data from multiple source systems into a single platform.
+- Supports fast SQL-based data analysis and reporting.
+- Enables business intelligence and analytics.
+- Scales compute and storage independently based on workload.
+- Supports both structured and semi-structured data.
+- Allows secure data sharing across teams and organizations.
 
 ## How I Use Snowflake
 
