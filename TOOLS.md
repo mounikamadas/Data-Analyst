@@ -84,7 +84,7 @@ ETL (Extract, Transform, Load) is the process of extracting data from source sys
 
 # ServiceNow
 
-ServiceNow is an IT Service Management (ITSM) platform used to manage incidents, service requests, change requests, and operational tasks.
+ServiceNow is a cloud-based IT Service Management (ITSM) platform that helps organizations manage IT services, workflows, and business operations. It provides a centralized platform to handle incidents, service requests, changes, tasks, and other operational processes.
 
 ## How I Use ServiceNow
 
