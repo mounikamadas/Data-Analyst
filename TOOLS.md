@@ -29,13 +29,6 @@ Snowflake is a cloud-native data warehouse that enables organizations to store, 
 
 AutoSys is an enterprise workload automation and job scheduling tool used to schedule, monitor, and manage batch jobs and ETL workflows.
 
-## Why is AutoSys Used?
-
-- Automates scheduled jobs
-- Manages job dependencies
-- Monitors workflow execution
-- Generates job status and alerts
-
 ## How I Use AutoSys
 
 - Monitor scheduled ETL jobs.
@@ -52,14 +45,6 @@ AutoSys is an enterprise workload automation and job scheduling tool used to sch
 
 PuTTY is an SSH client used to securely access remote Linux servers.
 
-## Why is PuTTY Used?
-
-- Secure remote server access
-- Log analysis
-- Shell script verification
-- File validation
-- Operational suppor
-
 ## How I Use PuTTY
 
 - Access Linux servers securely.
@@ -73,13 +58,6 @@ PuTTY is an SSH client used to securely access remote Linux servers.
 # Amazon S3
 
 Amazon Simple Storage Service (Amazon S3) is a cloud object storage service used to securely store and retrieve files.
-
-## Why is Amazon S3 Used?
-
-- Store source data files
-- Highly durable storage
-- Secure file management
-- Scalable object storage
 
 ## How I Use Amazon S3
 
@@ -105,14 +83,6 @@ ETL (Extract, Transform, Load) is the process of extracting data from source sys
 # ServiceNow
 
 ServiceNow is an IT Service Management (ITSM) platform used to manage incidents, service requests, change requests, and operational tasks.
-
-## Why is ServiceNow Used?
-
-- Incident Management
-- Service Requests
-- Change Requests
-- Task Management
-- Workflow Tracking
 
 ## How I Use ServiceNow
 
@@ -152,9 +122,11 @@ Jira is a project management and issue tracking tool used by Agile teams to mana
 
 # Currently Learning
 
+Enhancing my knowledge in the following areas:
+
 - Advanced Snowflake Concepts
-- PySpark
+- Advanced SQL
 - Data Warehousing Concepts
-- Cloud Data Engineering
+- Python for Data Engineering
+- ETL Pipeline Design and Best Practices
 - Git & GitHub Best Practices
-- Enterprise Data Engineering Workflows
