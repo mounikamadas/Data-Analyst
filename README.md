@@ -1,7 +1,7 @@
 # Data-Analyst
 Documentation of my Data Analyst experience, workflows, and technical knowledge.
 
-# 💼 My Role & Responsibilities
+# My Role & Responsibilities
 
 I work on the operational support and maintenance of an enterprise data platform that uses Snowflake as its cloud data warehouse. My responsibilities focus on monitoring ETL workflows, investigating data-related issues, supporting change implementations, and ensuring smooth production operations.
 
