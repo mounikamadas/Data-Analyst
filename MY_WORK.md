@@ -92,3 +92,11 @@ I work on the operational support and maintenance of an enterprise data platform
 - Refer to interface, job, objects, source, and support documentation during analysis and troubleshooting.
 - Review technical documnetation, deployment procedures, and operational documentation.
 - Utilize Confluence to understand data flow, object dependencies, and support processes.
+
+---
+
+## File & Source Data Validation (Amazon S3)
+
+- Verify the availability of source files in Amazon S3 buckets for scheduled data processing.
+- Investigate missing, delayed, or incorrect source files during ETL issue analysis.
+- Validate source file availability as part of troubleshooting and data load investigations.
