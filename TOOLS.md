@@ -93,24 +93,6 @@ Amazon Simple Storage Service (Amazon S3) is a cloud object storage service used
 
 ETL (Extract, Transform, Load) is the process of extracting data from source systems, transforming it into the required format, and loading it into a target system.
 
-## ETL Workflow
-
-```text
-Source Systems
-      │
-      ▼
-   Extract
-      │
-      ▼
- Transform
-      │
-      ▼
-    Load
-      │
-      ▼
- Target Database
-```
-
 ## How I Use ETL
 
 - Trace data lineage across ETL layers.
@@ -120,23 +102,21 @@ Source Systems
 
 ---
 
-# 🎫 ServiceNow
-
-## What is ServiceNow?
+# ServiceNow
 
 ServiceNow is an IT Service Management (ITSM) platform used to manage incidents, service requests, change requests, and operational tasks.
 
 ## Why is ServiceNow Used?
 
 - Incident Management
-- Service Requests (SR)
-- Change Requests (CR)
+- Service Requests
+- Change Requests
 - Task Management
 - Workflow Tracking
 
 ## How I Use ServiceNow
 
-- Create Service Requests (SRs) and Change Requests (CRs) when required.
+- Create Service Requests and Change Requests when required.
 - Work on assigned incidents and operational tasks.
 - Update implementation progress and ticket status.
 - Document investigation findings and resolution details.
@@ -144,20 +124,9 @@ ServiceNow is an IT Service Management (ITSM) platform used to manage incidents,
 
 ---
 
-# 📚 Confluence
-
-## What is Confluence?
+# Confluence
 
 Confluence is a collaboration and documentation platform used to maintain project knowledge, technical documentation, and operational procedures.
-
-## Why is Confluence Used?
-
-- Project documentation
-- Interface information
-- ETL job documentation
-- Snowflake object details
-- Support documentation
-- Deployment procedures
 
 ## How I Use Confluence
 
@@ -168,18 +137,9 @@ Confluence is a collaboration and documentation platform used to maintain projec
 
 ---
 
-# 📋 Jira
-
-## What is Jira?
+# Jira
 
 Jira is a project management and issue tracking tool used by Agile teams to manage tasks, user stories, bugs, and sprint activities.
-
-## Why is Jira Used?
-
-- Sprint planning
-- Task tracking
-- Issue management
-- Progress tracking
 
 ## How I Use Jira
 
@@ -190,25 +150,7 @@ Jira is a project management and issue tracking tool used by Agile teams to mana
 
 ---
 
-# 🌿 Git & GitHub
-
-## What is Git?
-
-Git is a distributed version control system used to track changes in source code and documentation.
-
-## What is GitHub?
-
-GitHub is a cloud-based platform for hosting Git repositories, enabling collaboration, version control, and documentation.
-
-## How I Use Git & GitHub
-
-- Maintain technical documentation.
-- Organize learning materials and notes.
-- Track documentation changes using version control.
-
----
-
-# 📈 Currently Learning
+# Currently Learning
 
 - Advanced Snowflake Concepts
 - PySpark
