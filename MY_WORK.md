@@ -31,7 +31,7 @@ I work on the operational support and maintenance of an enterprise data platform
 
 ---
 
-##  PuTTY & Linux
+##  PuTTY
 
 - Use PuTTY to access Linux servers for operational support.
 - Review application, job, and error logs to investigate failures.
